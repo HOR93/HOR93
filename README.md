@@ -5,7 +5,7 @@
 
 - I am studying Network and Communications Engineering at the University of Brasilia, Brazil.
 - I'm Currently learning about Deep Learning and Pentesting.
-- I Contributed by coding the TensorFlow implementation for the research article "[A Review of IA Use in Education Analysis](https://ieeexplore.ieee.org/document/10344527)" published on WCNPS (IEEE).
+- I Contributed by coding the TensorFlow implementation for the research short article "[A Review of IA Use in Education Analysis](https://ieeexplore.ieee.org/document/10344527)" published on WCNPS (IEEE).
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
